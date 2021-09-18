@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Examen Android Carlos</string>
+    <string name="title_reserve">Prime Steak House (Costa del Este)</string>
+    <string name="subtitle_reserve">Costa del Este</string>
+    <string name="reservist">Reserva a nombre de <b>Jorge Andrés Rojas</b></string>
+    <string name="discount"><b>50% OFF</b> Miembro Foodie</string>
+    <string name="calendar">Miércoles 4</string>
+    <string name="text_number">66479404</string>
+    <string name="text_description">Voy a celebrar el cumpleaños de mi esposo y queremos una mesa cerca...</string>
+    <string name="btn_text_update_reserve">Actualizar reserva</string>
+    <string name="btn_text_cancel_reserve">Cancelar la reserva</string>
+    <string name="time">12:00 pm</string>
+    <string name="people">2 Personas</string>
+    <string name="title_close_app">Cerrar aplicación</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="title_edit_reserve">Editar la Reserva</string>
+</resources>
